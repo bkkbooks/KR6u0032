@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0032/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 示所犯者瑜伽法鏡經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2896.xml
+    old_id: T85n2896
+hash: sha256:d0e1809062d9a8a935187b8565cf971ec7c31d3c20271b4645e5034a9222fdc4
