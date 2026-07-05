@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0032_000.yaml, hash: 'sha256:d0e1809062d9a8a935187b8565cf971ec7c31d3c20271b4645e5034a9222fdc4'}
-  - {seq: 1, filename: KR6u0032_001.yaml, hash: 'sha256:399831f476dec4cc81dd3a13f4e23177629274e482e130d110535f2ffca08af1'}
+  - {seq: 1, filename: KR6u0032_001.yaml, hash: 'sha256:e1c3c590bbb4c5a867f9a42d94360187affaed8d8b0af32240b19a2dd4018d1b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0032_001.markers.yaml, hash: 'sha256:0ccc062adb2f9edbc351a79b7d799880dbbae1de063896e91938091f9439de55'}
+  - {seq: 0, role: markers, filename: assets/KR6u0032_000.markers.yaml, hash: 'sha256:129b8fbbb0c2b77d97bffbbce41c6cbd0067ca906653cd4f9b039d9f03a1c839'}
+  - {seq: 1, role: markers, filename: assets/KR6u0032_001.markers.yaml, hash: 'sha256:0af04ac9fb3b6931243737b43857d49155901310a6637087337020773e88c807'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,7 +50,4 @@ table_of_contents:
   label: 3 常施菩薩所問品
   type: mulu
   level: 1
-hash: sha256:4324a677aafa69914b11a6e3c54b132b11be5eeb1a5dafbfe27a7e83c4e9fbe1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:120b78c920680ef21b85ce0de047a3386c0c2c6d63c9d8c11672398a5ab48919
